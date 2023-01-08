@@ -1,0 +1,21 @@
+{
+	"passphrase": "telegram@gogo2rich",
+	"exchange": "{{exchange}}",
+    "ticker": "{{ticker}}",
+	"strategy": "strategy",
+	"robot_id": "freebot",
+	"period": "1h",
+	"trade_mode": "swap_usdt",
+	"trade_side": "wt_short",
+	"order_price": "{{strategy.order.price}}",
+	"msg_from": "tv",
+	"order_action": "{{strategy.order.comment}}",
+    "time": "{{timenow}}",
+	"profit_percent": "0.8",
+	"loss_percent": "3.5",
+    "leverage": "20",
+	"usdt_percent": "0.5",
+    "trade_qty": "{{strategy.order.contracts}}",
+	"backhand": "0",
+    "sell_percent": "100"	
+}
