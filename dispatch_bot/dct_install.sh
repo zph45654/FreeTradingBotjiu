@@ -13,6 +13,6 @@ rm -rf printMoney.service
 
 pip3 install waitress
 pip3 install flask
-
+pip3 install redis
 cd -
 rm -rf dct_install.sh 
