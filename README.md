@@ -33,7 +33,7 @@
     "leverage": "20",
 	"usdt_percent": "0.5",
     "trade_qty": "{{strategy.order.contracts}}",
-	"backhand": "0",
+	"backhand": "1",
     "sell_percent": "100"	
 }
 
@@ -46,14 +46,12 @@
 - [x] backhand：反手操作，如果设置为1，如果策略属于多空切换，则改参数设置成1. 否则设置成0
 - [x] 其他参数暂时不用关注，这个模板是合约模板
 # 免责声明
-- [x] 本项目免费提供交易机器人给大家使用，中途遇到bug可以提交Issues，或者在交流群告知作者，但使用中造成的亏损与作者无关。
+- [x] 本项目提供交易机器人给大家使用，中途遇到bug可以提交Issues，但使用中造成的亏损与作者无关。
 
 # 捐赠
 - [x] 本项目是开源项目，大家的支持也是对作者最大的动力。
-- [x] TRC20 USDT:TEyNzxyGuCHiesy6fr9FW81P42VE4evVXM
 
 # 作者联系方式
 - [x] https://t.me/gogo2rich
 
-# 视频介绍
-- [x] https://www.youtube.com/watch?v=p_FB_VDH9h0&ab_channel=%E9%87%8F%E5%8C%96%E9%97%A8%E5%BE%92 第一期总体介绍
+
